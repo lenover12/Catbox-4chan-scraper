@@ -1,8 +1,10 @@
-# Catbox-4chan-Scraper
+# Catbox-AI-Image-Scraper
 
 ![GitHub Forks](https://img.shields.io/github/forks/saintradon/catbox-4chan-scraper?style=flat-square) ![GitHub Stars](https://img.shields.io/github/stars/saintradon/catbox-4chan-scraper?style=flat-square)
 
 This Python tool is a fork of Saint Radon's original repository. It's designed for scraping Catbox links from 4chan threads and downloading associated images and text files.
+This is useful for gathering machine learning AI image generation Prompt's which are added to the metadata of images hosted on catbox from users
+⚠️It is my recommendation that this is only used with SFW boards from 4chan to avoid obscene material.⚠️
 
 ## Features
 
